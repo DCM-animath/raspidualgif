@@ -14,7 +14,7 @@ echo "$WAYLAND_DISPLAY"
 wlr-randr
 
 ```
-## 2 Monitor / Asymetric GIF
+
 1. Buat service dan config untuk monitor 1 :
    
    Buat service:
